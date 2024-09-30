@@ -17,6 +17,7 @@ I am passionate about:
 
 - **Automatic Speech Recognition (ASR)**: Designing models for multi-lingual and mixed-language environments.
 - **Text-to-Speech (TTS)**: Building voice synthesis systems capable of producing natural, expressive speech.
+- **MLOPs** : Combining Devops concepts to build machine learning systems.
 
 ### Current Work
 
