@@ -26,7 +26,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "NLP Developer"
   location         : "Nepal"
-  employer         : "Pokhara University"
   uri              : # URL
   email            : "silwalrikesh1@gmail.com" 
 
@@ -59,13 +58,13 @@ author:
   lastfm           : # Username
   linkedin         : 'rikesh-silwal-a47960239'
   mastodon         : # URL
-  medium           : # URL
+  medium           : 'https://medium.com/@silwalrikesh1'
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : 'SilwalRikesh'
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
