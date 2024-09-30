@@ -21,7 +21,7 @@ repository               : "fancycodemaster/fancycodemaster.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.jpeg"
   name             : "Rikesh Silwal"
   pronouns         : # example: "she/her"  
   bio              : "NLP Developer"
